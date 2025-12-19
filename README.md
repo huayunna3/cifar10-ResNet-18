@@ -1,6 +1,7 @@
 # 🖼️ CIFAR-10 Image Classification with Advanced ResNet-18
 
 一个使用 **PyTorch** 实现的深度计算机视觉项目，在经典的CIFAR-10数据集上，通过系统性的**数据增强、现代训练技巧和精细调优**，使用修改后的ResNet-18模型达到了**接近95%**的测试准确率。本项目是深度学习工程能力的综合实践。
+kaggle：https://www.kaggle.com/code/yunnahua/cifar10-resnet-18
 
 ## 📊 项目概述与成果
 
